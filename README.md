@@ -19,7 +19,7 @@ The project follows a complete analytics workflow:
 
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
-- [Project Roadmap](#-project-roadmap)
+- [Project Roadmap](#project-roadmap)
 - [Technology Stack](#-technology-stack)
 - [Project Structure](#-project-structure)
 - [Data Model](#-data-model)
@@ -45,13 +45,13 @@ Organizations generate large volumes of transactional sales data but often lack 
 
 ---
 
-## 🗺️ Project Roadmap
+## Project Roadmap
 
 ![Project Roadmap](docs/project_roadmap.png)
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -266,7 +266,7 @@ This solution enables stakeholders to:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kiran**
 
