@@ -159,17 +159,19 @@ The SQL layer consists of multiple analytical modules:
 
 ### Key KPIs
 
-- Total Sales: $29M
+- Total Sales: $29.35M
 - Total Orders: 28K
 - Total Quantity Sold: 60K
-- Average Order Value: $1.06K
+- Total Profit: $11.68M
+- Total Customers:18K
 
 ### Analysis Included
 
 - Monthly Sales Trend
-- Revenue by Product Line
-- Revenue by Gender
-- Geographic Sales Distribution
+- Total Sales By Category
+- Total Orders And Average Order Value by Quarter
+- Total Sales By Country
+- Total Sales By Country
 
 ---
 
@@ -177,13 +179,19 @@ The SQL layer consists of multiple analytical modules:
 
 ![Customer Analysis Dashboard](PowerBI/dashboards/Customer_Analysis_Dashboard.png)
 
+### Key KPIs
+
+- Total Customers: 18K
+- Average Sales Per Customer: 1.59K
+- Average Order Value: $1.06K
+- Repeat Customers: 7K
 ### Analysis Included
 
-- Sales by Country
-- Average Sales per Customer
-- Customer Distribution by Gender
-- Top Customers by Revenue
-- Sales Trend by Gender
+- Total Customers By Age Segment
+- Total Sales By Gender Marital
+- Top 10 Customers By Sales
+- Average Sales Per Customer By Country
+  
 
 ---
 
@@ -194,16 +202,16 @@ The SQL layer consists of multiple analytical modules:
 ### Key KPIs
 
 - Total Products: 271
-- Profit: $12M
+- Profit: $11.68M
 - Profit Margin: 39.81%
-- Total Sales: $29M
+- Total Sales: $29.35M
 
 ### Analysis Included
 
-- Sales vs Profit by Category
-- Product Line Performance
-- Subcategory Performance
-- Top Products by Profit
+- Category Performance
+- Profit Percentage of Top 5 Products
+- Total Sales By Product Line
+- Top 4 Sales By Product Category
 
 ---
 
