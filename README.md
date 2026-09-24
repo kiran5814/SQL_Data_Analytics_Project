@@ -155,7 +155,7 @@ The SQL layer consists of multiple analytical modules:
 
 ## 1️⃣ Executive Sales Analysis
 
-![Executive Sales Analysis](PowerBI/dashboards/executive_sales_analysis.png)
+![Executive Sales Analysis](PowerBI/dashboards/Executive_Sales_Analysis.png)
 
 ### Key KPIs
 
@@ -175,7 +175,7 @@ The SQL layer consists of multiple analytical modules:
 
 ## 2️⃣ Customer Analysis Dashboard
 
-![Customer Analysis Dashboard](PowerBI/dashboards/customer_analysis_dashboard.png)
+![Customer Analysis Dashboard](PowerBI/dashboards/Customer_Analysis_Dashboard.png)
 
 ### Analysis Included
 
@@ -189,7 +189,7 @@ The SQL layer consists of multiple analytical modules:
 
 ## 3️⃣ Product Performance Analysis
 
-![Product Performance Analysis](PowerBI/dashboards/product_performance_analysis.png)
+![Product Performance Analysis](PowerBI/dashboards/Product_Performance_Analysis.png)
 
 ### Key KPIs
 
